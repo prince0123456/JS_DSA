@@ -1,0 +1,15 @@
+{
+  "name": "basic-coding",
+  "version": "1.0.0",
+  "main": "swap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince Gupta",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
